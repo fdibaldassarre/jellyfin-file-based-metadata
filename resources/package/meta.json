@@ -1,0 +1,15 @@
+{
+  "category": "Metadata",
+  "changelog": "New release",
+  "description": "File based metadata provider\n",
+  "guid": "869868fa-4b3b-422a-a1d3-88a625357c46",
+  "name": "FileBasedMetadata",
+  "overview": "File Based metadata provider",
+  "owner": "fdb",
+  "targetAbi": "10.7.7.0",
+  "timestamp": "TIMESTAMP",
+  "version": "1.0.0.0",
+  "status": "Active",
+  "autoUpdate": false,
+  "imagePath": "/var/lib/jellyfin/plugins/FileBasedMetadata/icon.png"
+}
