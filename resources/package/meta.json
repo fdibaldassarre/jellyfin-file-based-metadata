@@ -8,7 +8,7 @@
   "owner": "fdb",
   "targetAbi": "10.7.7.0",
   "timestamp": "TIMESTAMP",
-  "version": "1.0.0.0",
+  "version": "10.7.7.0",
   "status": "Active",
   "autoUpdate": false,
   "imagePath": "/var/lib/jellyfin/plugins/FileBasedMetadata/icon.png"
