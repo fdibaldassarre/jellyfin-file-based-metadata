@@ -104,5 +104,24 @@
         <Rule Id="CA2101" Action="None" />
         <!-- disable warning CA2234: Pass System.Uri objects instead of strings -->
         <Rule Id="CA2234" Action="None" />
+
+        <!-- disable warning CS1591: Missing XML comment for publicly visible type or member -->
+        <Rule Id="CS1591" Action="None" />
+        <!-- disable warning SA1111: Closing parenthesis should be on line of last parameter -->
+        <Rule Id="SA1111" Action="None" />
+        <!-- disable warning SA1505:  An opening brace should not be followed by a blank line -->
+        <Rule Id="SA1505" Action="None" />
+
+        <Rule Id="SA1201" Action="None" />
+        <Rule Id="SA1649" Action="None" />
+        <Rule Id="SA1507" Action="None" />
+        <Rule Id="SA1005" Action="None" />
+        <Rule Id="SA1210" Action="None" />
+        <Rule Id="SA1508" Action="None" />
+        <Rule Id="SA1000" Action="None" />
+        <Rule Id="SA1500" Action="None" />
+        
+        <Rule Id="CS8603" Action="None" />
+
     </Rules>
 </RuleSet>
