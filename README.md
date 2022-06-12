@@ -22,6 +22,8 @@ The plugin will read the metadata from a JSON file put in the show main folder.
 
 As cover the plugin will use the file `.cover.png` put in the show main folder (if the file exists).
 
+This project is WIP.
+
 ## Build
 
 The project is build using .NET Core 5.0
