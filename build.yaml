@@ -1,0 +1,17 @@
+---
+name: "FileBasedMetadata"
+guid: "869868fa-4b3b-422a-a1d3-88a625357c46"
+version: "1.0.0.0"
+targetAbi: "10.7.0.0"
+framework: "net5.0"
+overview: "Plugin to read metadata from a JSON file"
+description: >
+  This plungin is meant to be used as an integration
+  point to include metadata into Jellyfin from an external
+  program
+category: "General"
+owner: "fdb"
+artifacts:
+- "Jellyfin.Plugin.FileBasedMetadata.dll"
+changelog: >
+  changelog

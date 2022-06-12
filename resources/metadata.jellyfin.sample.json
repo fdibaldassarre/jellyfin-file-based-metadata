@@ -1,0 +1,8 @@
+{
+   "Name": "Some show name",
+   "Description": "* My show description.",
+   "PremiereDate": "2016-02-05",
+   "EndDate": "2017-01-06",
+   "Studio": "WannabeAGreatProducer",
+   "Tags": ["Action", "Comedy"]
+}
